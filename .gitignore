@@ -1,0 +1,22 @@
+# Ignore Python virtual environment
+venv/
+
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+
+# Flask environment variable files
+.env
+
+# VS Code editor settings (optional)
+.vscode/
+
+# Log files
+*.log
+
+# MacOS specific (optional)
+.DS_Store
+venv/
+_pycache_/
+*.pyc
+.env
