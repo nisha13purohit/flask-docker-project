@@ -1,5 +1,3 @@
 
- # flask-docker-project
- # My First project with CI/CD implementation 
- Let's Check whether it works
-
+ # flask-docker-project with CI/CD implementation 
+ 
